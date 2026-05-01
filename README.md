@@ -25,6 +25,14 @@ Truth Table
 The Half Adder operates on two binary inputs A and B:
 <img width="393" height="255" alt="Truth-table-for-half-adder_W640" src="https://github.com/user-attachments/assets/8c60f294-1156-4320-ad05-de1fa1898ada" />
 
+Logic Gates and boolean experssion
+Sum= X^Y
+Carry= X.Y
+
+Circuit Diagram
+<img width="768" height="320" alt="image" src="https://github.com/user-attachments/assets/466d5f52-8211-4147-aa12-5d16aa60f248" />
+
+
 
 
 
