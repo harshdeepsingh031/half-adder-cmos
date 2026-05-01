@@ -42,18 +42,18 @@ The CMOS-level implementation uses complementary MOSFET pairs (PMOS + NMOS) to r
 <img width="1918" height="986" alt="Screenshot 2026-05-01 190140" src="https://github.com/user-attachments/assets/dec90cf4-5f23-49c2-951a-fec125b71a15" />
 
 ## Verilog code
-Module half_adder.v
+```Module half_adder.v
 
 module half_adder(input a , input b , output sum ,output carry);
 assign sum = a ^ b;
 assign carry = a & b;
 
 endmodule
-
+```
 ## Module tb_half_adder.v
 
 
-timescale 1ns/1ps
+```timescale 1ns/1ps
 module tb_half_adder;
 reg a,b;
 wire sum,carry;
@@ -67,7 +67,7 @@ a=0; b=0;
 end
  
 endmodule
-
+```
 ## Simulation Waveforms
 <img width="1915" height="992" alt="Screenshot 2026-04-24 233016" src="https://github.com/user-attachments/assets/d2b8f5e7-b693-44e2-bd0f-5ad7d025f2f2" />
 
