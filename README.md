@@ -1,16 +1,16 @@
 # Half adder- CMOS Design & Verilog Implementation
 ## Table Of Contents
 
-```1.Introduction
-2.Truth Table
-3.Logic Gates & Boolean Expressions
-4.Circuit Diagram (Gate Level)
-5.CMOS Implementation in LTspice
-6.Verilog Code
-7.Simulation Waveforms
-8.Tools Used
-9.How to Run
-```
+1. Introduction
+2. Truth Table
+3. Logic Gates & Boolean Expressions
+4. Circuit Diagram (Gate Level)
+5. CMOS Implementation in LTspice
+6. Verilog Code
+7. Simulation Waveforms
+8. Tools Used
+9. How to Run
+
 ## Introduction
 A Half Adder is one of the fundamental building blocks of digital arithmetic circuits. It performs binary addition of two single-bit inputs and produces two outputs:
 Sum (S) — the result of the addition
