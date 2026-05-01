@@ -23,6 +23,8 @@ Register Transfer Level (RTL) design — written in Verilog HDL and simulated us
 
 Truth Table
 The Half Adder operates on two binary inputs A and B:
+<img width="393" height="255" alt="Truth-table-for-half-adder_W640" src="https://github.com/user-attachments/assets/8c60f294-1156-4320-ad05-de1fa1898ada" />
+
 
 
 
