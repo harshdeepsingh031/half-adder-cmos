@@ -25,14 +25,14 @@ Truth Table
 The Half Adder operates on two binary inputs A and B:
 <img width="393" height="255" alt="Truth-table-for-half-adder_W640" src="https://github.com/user-attachments/assets/8c60f294-1156-4320-ad05-de1fa1898ada" />
 
-Logic Gates and boolean experssion
+Logic Gates and boolean experssion:
 Sum= X^Y
 Carry= X.Y
 
-Circuit Diagram
+Circuit Diagram:
 <img width="768" height="320" alt="image" src="https://github.com/user-attachments/assets/466d5f52-8211-4147-aa12-5d16aa60f248" />
 
-CMOS Implementation
+CMOS Implementation:
 The CMOS-level implementation uses complementary MOSFET pairs (PMOS + NMOS) to realize each logic gate.
 LTspice Schematic
 <img width="1910" height="875" alt="Screenshot 2026-05-01 190211" src="https://github.com/user-attachments/assets/02235cc2-ae7c-4238-a2f1-5a40ecfa7da2" />
