@@ -9,7 +9,7 @@
 6. Verilog Code
 7. Simulation Waveforms
 8. Tools Used
-9. How to Run
+
 
 ## Introduction
 A Half Adder is one of the fundamental building blocks of digital arithmetic circuits. It performs binary addition of two single-bit inputs and produces two outputs:
